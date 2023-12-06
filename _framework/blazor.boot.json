@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WorkoutWebAssembly",
   "resources": {
-    "hash": "sha256-OrQMeTSfxNDWuuammj6n5ZXPY1hRqglpuoyNi0zaXZw=",
+    "hash": "sha256-ILlb+jI2/PD6hcVkcCdrV7E1Dq0SaJbbI6Tg0qcpUGg=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.bzgwc8cmjs.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-PPjgJMbaJy7HmAFbiVQDmuLd+9vm5X5Uxk2KptWctx4=",
       "System.Text.Json.wasm": "sha256-bYSMRA2prb9VQgWRPvZYl9lN9FU4qKdNig7DMQA4fJs=",
       "System.Text.RegularExpressions.wasm": "sha256-3TnJ+gFbcLQWd64dQi9CTds871jRDrawlfFObiJJADY=",
-      "WorkoutWebAssembly.wasm": "sha256-RnlFawi2xkT+BGaECtODWF0fitJ47AntAmmv8UDkx4o="
+      "WorkoutWebAssembly.wasm": "sha256-XfSzgQdHwFgdtss7McL8XexGSVMPZv/B7qpsVcOybKo="
     }
   },
   "cacheBootResources": true,
